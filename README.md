@@ -46,8 +46,8 @@
 ### 1. 克隆项目并安装依赖
 
 ```bash
-git clone https://github.com/yourusername/ethereum-golang-dapp.git
-cd ethereum-golang-dapp
+git clone https://github.com/yangliyong7/go-ethereum.git
+cd go-ethereum
 go mod download
 ```
 
